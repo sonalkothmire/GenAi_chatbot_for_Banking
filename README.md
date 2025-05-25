@@ -28,5 +28,5 @@ The core QA logic is encapsulated in a get_answer function (in a separate module
 
 # Chatbot Interface :
 
-![image alt]
+![image alt](https://github.com/sonalkothmire/RBI_Financial_Operations_Risk_Guideline_Chatbot/blob/main/chatbot_runapp.pdf)
 
