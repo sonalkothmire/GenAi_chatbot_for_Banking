@@ -5,3 +5,6 @@ This project implements a Retrieval-Augmented Generation (RAG) chatbot that answ
 # System Architecture
 
 ![image alt](https://github.com/sonalkothmire/GenAi_chatbot_for_Banking/blob/main/image.png)
+
+# Features
+
