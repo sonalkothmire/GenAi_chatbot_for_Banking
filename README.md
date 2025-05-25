@@ -26,5 +26,7 @@ An easy-to-use web interface for querying the chatbot.
 
 The core QA logic is encapsulated in a get_answer function (in a separate module), which is imported into the Flask app.
 
+# Chatbot Interface :
 
+![image alt]
 
